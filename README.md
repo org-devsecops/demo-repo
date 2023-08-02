@@ -1,6 +1,7 @@
 # ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 some changes added
 ghp_klwE3H69wNo6LeCQiYEjOgt9wSJKQn28ZDT7
+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
 AAdcd
 
 dfd
